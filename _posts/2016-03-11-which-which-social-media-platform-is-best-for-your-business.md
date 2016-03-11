@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When you have a small business, making sure that you are available on social media and knowing which platform is the right one for you makes all the difference. There are a few major social media platforms available to use, but by knowing your audience, you'll be able to reach an engaged base of customers and new clients by working with their preferences. It's not enough to have \"just a Facebook page\"-- you need to know how to use\_social media platforms effectively so that you can effectively expand the reach of your brand."
-datePublished: '2016-03-11T15:53:07.893Z'
-dateModified: '2016-03-11T15:52:59.526Z'
-title: Which Which Social Media Platform is Best for your Business? and How Many?
+datePublished: '2016-03-11T15:59:26.846Z'
+dateModified: '2016-03-11T15:59:13.523Z'
+title: Which Social Media Platform is Best for your Business? and How Many?
 author: []
+sourcePath: _posts/2016-03-11-which-which-social-media-platform-is-best-for-your-business.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-which-which-social-media-platform-is-best-for-your-business.md
-published: true
 url: which-which-social-media-platform-is-best-for-your-business/index.html
 _type: Article
 
@@ -47,3 +47,5 @@ Youtube is also good for live video, but if you want to do live events, Periscop
 **LinkedIn**
 
 Depending on the type of service you have, LinkedIn is good, particularly for professional connections. It is largely content driven, and allows you to become a thought leader among your peers. Especially for business to business networking, LinkedIn is generally unsurpassed in creating connections and making your online presence more visible.
+
+Contact Fresh Crowd today and your personal social media specialist can help strengthen your presence on social media.
