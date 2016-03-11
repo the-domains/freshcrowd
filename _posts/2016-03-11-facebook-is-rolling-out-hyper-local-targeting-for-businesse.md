@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Facebook is doing something you'd never expect: it's using location-based targeting to help you find nearby businesses in your area. As in, your immediate area. The search giant released a beta version of its service to help users find businesses that are near their physical location, as well as advertising local businesses."
-datePublished: '2016-03-11T15:03:28.512Z'
-dateModified: '2016-03-11T15:03:13.788Z'
+datePublished: '2016-03-11T15:20:41.381Z'
+dateModified: '2016-03-11T15:15:10.413Z'
 title: ' Facebook is Rolling Out Hyper-Local Targeting For Businesses'
 author: []
+sourcePath: _posts/2016-03-11-facebook-is-rolling-out-hyper-local-targeting-for-businesse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-facebook-is-rolling-out-hyper-local-targeting-for-businesse.md
-published: true
 url: facebook-is-rolling-out-hyper-local-targeting-for-businesse/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/295bcae6-d291-4a0d-9fb4-5f547e83e7dc.jpg)
-
 Facebook is doing something you'd never expect: it's using location-based targeting to help you find nearby businesses in your area. As in, your immediate area. The search giant released a beta version of its service to help users find businesses that are near their physical location, as well as advertising local businesses.
 
 Hyper-local targeting will be more of an extension of Facebook's current ad targeting functionality, which can break down potential customers for advertising by age, gender, and general location. Here's an example: say you are a small local bakery and want to advertise a new latte special that comes with a cookie. You can target age demographics in your area, and as users are walking in your general direction, Facebook will show them your ad so that you can offer them your special.
@@ -34,6 +32,6 @@ Is it worth it? It's a good question, and many of Facebook's advertising service
 
 Overall, location-based advertising makes a lot of sense, and helps even the playing field between smaller, local companies and much bigger ones with larger footprints. Users will probably notice it positively overall, as the overall experience of Facebook advertising is not changing, but the nature of that advertising will be more familiar and local. In short, if you are looking into advertising on Facebook and you have a local business, hyper-local advertising may be the path to the future.
 
-Fresh Crowd are the industry leaders in social media management. [Contact][0] the Fresh Crowd team today to hear how they can help boost your business. 
+Fresh Crowd are the industry leaders in social media management. [Contact][0] the Fresh Crowd team today to hear how they can help boost your business. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b606753-6a1e-4bb1-93f1-1688db5693e9.jpg)
 
-[0]: http://freshcrowd.com
+[0]: http://freshcrowd.com/
