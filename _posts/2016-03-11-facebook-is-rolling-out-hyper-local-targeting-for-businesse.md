@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Facebook is doing something you'd never expect: it's using location-based targeting to help you find nearby businesses in your area. As in, your immediate area. The search giant released a beta version of its service to help users find businesses that are near their physical location, as well as advertising local businesses."
-datePublished: '2016-03-11T15:20:41.381Z'
-dateModified: '2016-03-11T15:15:10.413Z'
+datePublished: '2016-03-11T15:24:02.280Z'
+dateModified: '2016-03-11T15:23:33.405Z'
 title: ' Facebook is Rolling Out Hyper-Local Targeting For Businesses'
 author: []
 sourcePath: _posts/2016-03-11-facebook-is-rolling-out-hyper-local-targeting-for-businesse.md
@@ -31,7 +31,8 @@ This feature seems to be designed to offset the damage caused by recent changes 
 Is it worth it? It's a good question, and many of Facebook's advertising services operate on broadening a base to new potential customers. Still, local targeting is worth a lot to many different businesses, who rely on local clients to survive. Most businesses, particularly new businesses, could stand a lot to gain using Facebook's new local targeting ad service. It provides benefit to the user to see businesses which are in their area, and it benefits businesses making new customers who might not have seen them before.
 
 Overall, location-based advertising makes a lot of sense, and helps even the playing field between smaller, local companies and much bigger ones with larger footprints. Users will probably notice it positively overall, as the overall experience of Facebook advertising is not changing, but the nature of that advertising will be more familiar and local. In short, if you are looking into advertising on Facebook and you have a local business, hyper-local advertising may be the path to the future.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b606753-6a1e-4bb1-93f1-1688db5693e9.jpg)
 
-Fresh Crowd are the industry leaders in social media management. [Contact][0] the Fresh Crowd team today to hear how they can help boost your business. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b606753-6a1e-4bb1-93f1-1688db5693e9.jpg)
+Fresh Crowd are the industry leaders in social media management. [Contact][0] the Fresh Crowd team today to hear how they can help boost your business. 
 
 [0]: http://freshcrowd.com/
