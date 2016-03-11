@@ -1,0 +1,28 @@
+name: FreshCrowd
+favicon: null
+layout_spectrum: 0.8118614386767149
+typography_spectrum: 0.968335225712508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08260776218958199
+  lightness: 0.4691378076095134
+  saturation: 0.4631327292881906
+  rhythmicContrast: 0.17377619468607008
+purpose: []
