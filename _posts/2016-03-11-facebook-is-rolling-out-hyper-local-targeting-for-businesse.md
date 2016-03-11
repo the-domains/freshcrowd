@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Facebook is doing something you'd never expect: it's using location-based targeting to help you find nearby businesses in your area. As in, your immediate area. The search giant released a beta version of its service to help users find businesses that are near their physical location, as well as advertising local businesses."
-datePublished: '2016-03-11T15:24:02.280Z'
-dateModified: '2016-03-11T15:23:33.405Z'
+datePublished: '2016-03-11T15:24:17.142Z'
+dateModified: '2016-03-11T15:24:15.484Z'
 title: ' Facebook is Rolling Out Hyper-Local Targeting For Businesses'
 author: []
 sourcePath: _posts/2016-03-11-facebook-is-rolling-out-hyper-local-targeting-for-businesse.md
