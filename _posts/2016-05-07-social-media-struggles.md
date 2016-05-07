@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "5 Reasons Why You're Not Gaining Traction on Social Media"
-datePublished: '2016-05-07T19:10:03.115Z'
-dateModified: '2016-05-07T19:09:39.167Z'
+description: ''
+datePublished: '2016-05-07T19:30:02.526Z'
+dateModified: '2016-05-07T19:29:50.185Z'
 title: Social Media Struggles?
 author: []
+sourcePath: _posts/2016-05-07-social-media-struggles.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-social-media-struggles.md
 url: social-media-struggles/index.html
 _type: Article
 
 ---
+**__**
+
 **_5 Reasons Why You're Not Gaining Traction on Social Media_**
 
 ### Social Media Struggles?
@@ -53,6 +55,4 @@ The biggest mistake you can make is not having a social media plan at all. Your 
 
 [Fresh Crowd][0] is here for businesses that don't have the time or resources to manage your social media effectively. With proven results managing the social presence for several businesses, Fresh Crowds services can be an incredible investment in your brand.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/136b2be1-e76b-4861-af15-1678eb26c37e.png)
-
-[0]: http://freshcrowd.com
+[0]: http://freshcrowd.com/
