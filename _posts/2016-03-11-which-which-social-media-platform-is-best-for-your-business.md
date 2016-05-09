@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When you have a small business, making sure that you are available on social media and knowing which platform is the right one for you makes all the difference. There are a few major social media platforms available to use, but by knowing your audience, you'll be able to reach an engaged base of customers and new clients by working with their preferences. It's not enough to have \"just a Facebook page\"-- you need to know how to use\_social media platforms effectively so that you can effectively expand the reach of your brand."
-datePublished: '2016-03-11T15:59:26.846Z'
-dateModified: '2016-03-11T15:59:13.523Z'
+datePublished: '2016-05-09T18:30:07.868Z'
+dateModified: '2016-03-11T15:59:35.107Z'
 title: Which Social Media Platform is Best for your Business? and How Many?
 author: []
 sourcePath: _posts/2016-03-11-which-which-social-media-platform-is-best-for-your-business.md
-published: true
 authors: []
 publisher:
   name: null
